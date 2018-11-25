@@ -1,0 +1,12 @@
+INDEX VERSION 1.3+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+881659972.index
+213622537.index
+1458880808.index
+3920267647.index
+3733976994.index
+1229523025.index
+3118223518.index
+2611859530.index
+4048464027.index
+4211929697.index
+3295558564.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;taotao-order&apos;&#x0A;- Original project: &apos;taotao-order&apos;&#x0A;- Original element: &apos;taotao-order/src/main/java/com.taotao.order.dao.impl&apos;" description="Delete element" element1="/src\/main\/java&lt;com.taotao.order.dao.impl" element2="/src\/main\/java&lt;com.taotao.order.dao" element3="/src\/main\/java&lt;com.taotao.order" element4="/src\/main\/java&lt;com.taotao" element5="/src\/main\/java&lt;com" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1516715084043" subPackages="false" version="1.0"/>
+</session>

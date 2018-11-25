@@ -1,0 +1,7 @@
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/controller/PageController.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/dao/impl/JedisClientSingle.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/dao/JedisClient.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/service/UserService.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/service/impl/UserServiceImpl.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/dao/impl/JedisClientCluster.java
+/Users/liyu/liyu_work/repos/eclipse_workspace/taotao/taotao-sso/src/main/java/com/taotao/sso/controller/UserController.java
